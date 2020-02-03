@@ -16,7 +16,7 @@ namespace Entities
         public string SubjectName { get; set; }
         public string vcRemarks { get; set; }
 
-        public DateTime dtGivenDate { get; set; }
+        public DateTime dtGivenDate { get; set; }   
         public DateTime dtSubmissionDate { get; set; }
         public string SubmitedDate { get; set; }
 
