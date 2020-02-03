@@ -1,0 +1,17 @@
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe.config
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.csprojResolveAssemblyReference.cache
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.Properties.Resources.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo_City_Institute.UI.Common.BaseUI.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.csproj.GenerateResource.Cache
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.exe
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.CreateStudent.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.CreateUser.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.pdb

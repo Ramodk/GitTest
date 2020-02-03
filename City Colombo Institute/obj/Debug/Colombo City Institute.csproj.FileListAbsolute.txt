@@ -1,0 +1,117 @@
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe.config
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.exe
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.dll
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.pdb
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csprojResolveAssemblyReference.cache
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.Properties.Resources.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo_City_Institute.UI.Common.BaseUI.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.CreateStudent.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.CreateUser.resources
+E:\Viraj\Assignments\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.GenerateResource.Cache
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe.config
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.pdb
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.dll
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.dll
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.dll
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.pdb
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.pdb
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.pdb
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csprojAssemblyReference.cache
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.Properties.Resources.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo_City_Institute.UI.Common.BaseUI.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.MainMenu.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.frmAddStream.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.CreateStudent.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmEditStudent.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmViewStudent.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.CreateTeacher.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.CreateUser.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.GenerateResource.cache
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.CoreCompileInputs.cache
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.CopyComplete
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.exe
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.pdb
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.EditTeacher.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.ViewTeacher.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.AddSubject.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.EditSubject.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.AddAssignment.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.SubmissionAssignment.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.ViewAssignmentForStudent.resources
+C:\Users\Ramod\Desktop\Windows Application Assignment\New\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.AddBatch.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe.config
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.exe
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.pdb
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.pdb
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.dll
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.dll
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.dll
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.pdb
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.pdb
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.pdb
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csprojResolveAssemblyReference.cache
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.Properties.Resources.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.AddAssignment.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.SubmissionAssignment.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.ViewAssignmentForStudent.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo_City_Institute.UI.Common.BaseUI.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.MainMenu.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.AddBatch.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.frmAddStream.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.CreateStudent.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmEditStudent.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmViewStudent.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.AddSubject.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.EditSubject.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.CreateTeacher.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.EditTeacher.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.ViewTeacher.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.CreateUser.resources
+C:\Users\Ramod.kaushan\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.GenerateResource.Cache
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe.config
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.exe
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\City Colombo Institute.pdb
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.dll
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.dll
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.dll
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\BAL.pdb
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\Entities.pdb
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\bin\Debug\DAL.pdb
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csprojAssemblyReference.cache
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.Properties.Resources.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.AddAssignment.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.SubmissionAssignment.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.ViewAssignmentForStudent.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo_City_Institute.UI.Common.BaseUI.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.MainMenu.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.AddBatch.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Stream.frmAddStream.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.CreateStudent.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmEditStudent.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Student.frmViewStudent.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.AddSubject.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Subject.EditSubject.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.CreateTeacher.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.EditTeacher.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Teacher.ViewTeacher.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.CreateUser.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.GenerateResource.cache
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.CoreCompileInputs.cache
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\Colombo City Institute.csproj.CopyComplete
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.exe
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City Colombo Institute.pdb
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.User.Login.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.ViewAssignmentForTeacher.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.AddStudentAssignmentForSubmission.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.Assignment.AssignmentMarking.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.StudentMainMenu.resources
+C:\Users\Ramod\Desktop\City Colombo Institute\City Colombo Institute\obj\Debug\City_Colombo_Institute.UI.TeacherMainMenu.resources

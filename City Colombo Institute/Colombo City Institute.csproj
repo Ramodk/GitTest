@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E941A2F-787B-45F7-98DA-47FB62860AB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>City_Colombo_Institute</RootNamespace>
+    <AssemblyName>City Colombo Institute</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Assignment\AddAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\AddAssignment.Designer.cs">
+      <DependentUpon>AddAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Assignment\AddStudentAssignmentForSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\AddStudentAssignmentForSubmission.Designer.cs">
+      <DependentUpon>AddStudentAssignmentForSubmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Assignment\AssignmentMarking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\AssignmentMarking.Designer.cs">
+      <DependentUpon>AssignmentMarking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Assignment\SubmissionAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\SubmissionAssignment.designer.cs">
+      <DependentUpon>SubmissionAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Assignment\ViewAssignmentForStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\ViewAssignmentForStudent.designer.cs">
+      <DependentUpon>ViewAssignmentForStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Assignment\ViewAssignmentForTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Assignment\ViewAssignmentForTeacher.Designer.cs">
+      <DependentUpon>ViewAssignmentForTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Common\BaseUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Common\BaseUI.designer.cs">
+      <DependentUpon>BaseUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Stream\AddBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Stream\AddBatch.Designer.cs">
+      <DependentUpon>AddBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Stream\frmAddStream.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Stream\frmAddStream.Designer.cs">
+      <DependentUpon>frmAddStream.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\StudentMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\StudentMainMenu.Designer.cs">
+      <DependentUpon>StudentMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Student\CreateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Student\CreateStudent.Designer.cs">
+      <DependentUpon>CreateStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Student\frmEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Student\frmEditStudent.Designer.cs">
+      <DependentUpon>frmEditStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Student\frmViewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Student\frmViewStudent.Designer.cs">
+      <DependentUpon>frmViewStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Subject\AddSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Subject\AddSubject.Designer.cs">
+      <DependentUpon>AddSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Subject\EditSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Subject\EditSubject.Designer.cs">
+      <DependentUpon>EditSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TeacherMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TeacherMainMenu.Designer.cs">
+      <DependentUpon>TeacherMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Teacher\CreateTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Teacher\CreateTeacher.Designer.cs">
+      <DependentUpon>CreateTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Teacher\EditTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Teacher\EditTeacher.Designer.cs">
+      <DependentUpon>EditTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Teacher\ViewTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Teacher\ViewTeacher.Designer.cs">
+      <DependentUpon>ViewTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\CreateUser.Designer.cs">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\User\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\User\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\Assignment\AddAssignment.resx">
+      <DependentUpon>AddAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Assignment\AddStudentAssignmentForSubmission.resx">
+      <DependentUpon>AddStudentAssignmentForSubmission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Assignment\AssignmentMarking.resx">
+      <DependentUpon>AssignmentMarking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Assignment\SubmissionAssignment.resx">
+      <DependentUpon>SubmissionAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Assignment\ViewAssignmentForStudent.resx">
+      <DependentUpon>ViewAssignmentForStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Assignment\ViewAssignmentForTeacher.resx">
+      <DependentUpon>ViewAssignmentForTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Common\BaseUI.resx">
+      <DependentUpon>BaseUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Stream\AddBatch.resx">
+      <DependentUpon>AddBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Stream\frmAddStream.resx">
+      <DependentUpon>frmAddStream.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\StudentMainMenu.resx">
+      <DependentUpon>StudentMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\CreateStudent.resx">
+      <DependentUpon>CreateStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\frmEditStudent.resx">
+      <DependentUpon>frmEditStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\frmViewStudent.resx">
+      <DependentUpon>frmViewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Subject\AddSubject.resx">
+      <DependentUpon>AddSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Subject\EditSubject.resx">
+      <DependentUpon>EditSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TeacherMainMenu.resx">
+      <DependentUpon>TeacherMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Teacher\CreateTeacher.resx">
+      <DependentUpon>CreateTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Teacher\EditTeacher.resx">
+      <DependentUpon>EditTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Teacher\ViewTeacher.resx">
+      <DependentUpon>ViewTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\CreateUser.resx">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\User\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BAL\BAL.csproj">
+      <Project>{1fc20a3c-7b0f-4a66-aad2-bd4b5d177274}</Project>
+      <Name>BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{fefa8eee-b5da-4863-9b24-af35a7739276}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UI\MenuBackground.jpg" />
+    <Content Include="UI\User\Login-01.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
